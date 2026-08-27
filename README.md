@@ -1,14 +1,22 @@
-Fitness Tracker App
+# Fitness Tracker App
 
-A simple Android Fitness Tracker application developed during my internship.
+A simple Android application for tracking fitness activities and monitoring workout information.
 
-Features
-Track fitness activities
-Exercise information
-Simple and user-friendly UI
-JSON-based fitness data
-Technologies
-Java
-XML
-Android Studio
-JSON
+## Features
+
+* Tracks fitness activities
+* Records workout information
+* Tracks calories, steps, and duration
+* Stores activity history
+* Simple and user-friendly interface
+
+## Technologies
+
+* Java
+* XML
+* Android Studio
+* Firebase Realtime Database
+
+## Author
+
+**Ammara Fiayyaz**
